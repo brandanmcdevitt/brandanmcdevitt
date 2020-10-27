@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="www.google.com"><img src="https://github.com/brandanmcdevitt/brandanmcdevitt/blob/main/images/twitter.svg" width=50></a>
+
 <!--
 **brandanmcdevitt/brandanmcdevitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
