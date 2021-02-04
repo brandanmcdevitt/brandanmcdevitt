@@ -3,7 +3,9 @@
 <p>
 <!-- spotify player -->
 <a href="https://open.spotify.com/user/brandanmcdevitt"><img src="https://spotify-player-github-readme.vercel.app/api/spotify" width=435/></a></br>
+</p>
 
+<p align="left">
 <!-- instagram -->
 <a href="https://instagram.com/brandanmcdevitt/"><img src="images/instagram.svg" width="30"/></a>
 <!-- twitter -->
