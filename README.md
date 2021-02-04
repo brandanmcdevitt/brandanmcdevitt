@@ -1,4 +1,4 @@
-<img align="left" src="images/bc-bender-bw.png" width="70">
+<img align="left" src="images/bc-bender.png" width="70">
 
 <p>
 <!-- spotify player -->
