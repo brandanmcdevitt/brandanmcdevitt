@@ -1,4 +1,4 @@
-<img align="left" src="images/bc-bender.png" width="80">
+<img align="left" src="images/bc-bender.png" width="83">
 
 <p>
 </br>
