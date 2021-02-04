@@ -1,6 +1,7 @@
-<img align="left" src="images/bc-bender.png" width="70">
+<img align="left" src="images/bc-bender.png" width="80">
 
 <p>
+</br>
 <!-- spotify player -->
 <a href="https://open.spotify.com/user/brandanmcdevitt"><img src="https://spotify-player-github-readme.vercel.app/api/spotify" width=435/></a></br>
 </p>
