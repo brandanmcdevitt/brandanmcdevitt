@@ -1,5 +1,7 @@
-<img src="images/bc-bender.png" width="83">
+<img align="left" src="images/bc-bender.png" width="83"></br></br>
+<p><i>“We’re All Pretty Bizarre. Some Of Us Are Just Better At Hiding It; That’s All. - The Breakfast Club”</i></p>
 
+</br></br>
 <p align="right" style="margin: 0 0 0 0;">
 <!-- spotify player -->
 <a href="https://open.spotify.com/user/brandanmcdevitt"><img src="https://spotify-player-github-readme.vercel.app/api/spotify"/></a>
