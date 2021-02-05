@@ -3,7 +3,7 @@
 <p align="right">
 </br>
 <!-- spotify player -->
-<a href="https://open.spotify.com/user/brandanmcdevitt"><img src="https://spotify-player-github-readme.vercel.app/api/spotify"/></a></br>
+<a href="https://open.spotify.com/user/brandanmcdevitt"><img src="https://spotify-player-github-readme.vercel.app/api/spotify"/></a>
 </p>
 
 <p align="right">
