@@ -1,6 +1,6 @@
 <img align="left" src="images/bc-bender.png" width="83"></br></br>
 <p><i>“We’re all pretty bizarre. Some of us are just better at hiding it; that’s all. - The Breakfast Club”</i></p>
-
+</br></br></br>
 <p align="right">
 <!-- instagram -->
 <a href="https://instagram.com/brandanmcdevitt/"><img src="images/instagram.svg" width="20"/></a>
