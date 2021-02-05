@@ -1,5 +1,5 @@
 <img align="left" src="images/bc-bender.png" width="83"></br></br>
-<p><i>“We’re All Pretty Bizarre. Some Of Us Are Just Better At Hiding It; That’s All. - The Breakfast Club”</i></p>
+<p><i>“We’re all pretty bizarre. Some of us are just better at hiding it; that’s all. - The Breakfast Club”</i></p>
 
 </br></br>
 <p align="right" style="margin: 0 0 0 0;">
