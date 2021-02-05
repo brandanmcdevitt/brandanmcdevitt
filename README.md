@@ -1,6 +1,6 @@
 <img src="images/bc-bender.png" width="83">
 
-<p align="right" margin="0 0 0 0">
+<p align="right" style="margin: 0 0 0 0;">
 <!-- spotify player -->
 <a href="https://open.spotify.com/user/brandanmcdevitt"><img src="https://spotify-player-github-readme.vercel.app/api/spotify"/></a>
 </p>
