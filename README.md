@@ -3,11 +3,15 @@
 </br></br></br> -->
 
 <p align="center">
-<img src="images/take_this.png" width=600>
+   <picture>
+   <img src="images/take_this.png" width=600>
+   </picture>
 </p>
 
 <p align="center">
-<img src="images/wizard_and_flame.png" width=500>
+  <picture>
+    <img src="images/wizard_and_flame.png" width=500>
+  </picture
 </p>
 
 <p align="center">
