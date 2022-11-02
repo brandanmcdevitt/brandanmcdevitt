@@ -1,16 +1,19 @@
-<img align="left" src="images/bc-bender.png" width="83"></br></br>
+<!-- <img align="left" src="images/bc-bender.png" width="83"></br></br>
 <p><i>“We’re all pretty bizarre. Some of us are just better at hiding it; that’s all. - The Breakfast Club”</i></p>
-</br></br></br>
-<p align="right">
-<!-- instagram -->
-<a href="https://instagram.com/brandanmcdevitt/"><img src="images/instagram.svg" width="20"/></a>
-&nbsp
-<!-- twitter -->
-<a href="https://twitter.com/brandanmcdevitt"><img src="images/twitter.svg" width="20"/></a>
-&nbsp
-<!-- linkedin -->
-<a href="https://linkedin.com/in/brandanmcdevitt/"><img src="images/linkedin.svg" width="20"/></a>
-&nbsp
-<!-- website -->
-<a href="https://brandan.me"><img src="images/internet.svg" width="20"/></a>
-</p>
+</br></br></br> -->
+
+
+
+<div class="">
+<div class="" align="center">
+<img src="images/take_this.png" width=600>
+</div>
+
+<div class="" align="center">
+<img src="images/wizard_and_flame.png" width=500>
+</div>
+
+<div class="" align="center" style="padding-top: 15px;">
+<a src="https://brandan.me/bitcoin.pdf"><img src="images/bitcoin.png" width=50></a>
+</div>
+</div>
