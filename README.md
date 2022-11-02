@@ -3,11 +3,17 @@
 </br></br></br> -->
 
 <p align="center">
-<img src="images/take_this.png" width=600>
+   <picture>
+   <img src="images/take_this.png" width=600>
+   </picture>
 </p>
 
 <p align="center">
-<img src="images/wizard_and_flame.png" width=500>
+  <picture>
+    <img src="images/wizard_and_flame.png" width=500>
+  </picture
 </p>
 
-[<img src="images/bitcoin.png" width=50 style="display: block;margin: auto;">](https://brandan.me/bitcoin.pdf)
+<p align="center">
+<a href="https://brandan.me/bitcoin.pdf"><img src="images/bitcoin.png" width="50"></a>
+</p>
