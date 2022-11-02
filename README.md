@@ -4,7 +4,8 @@
 
 <p align="center">
    <picture>
-   <img src="images/take_this.png" width=600>
+   <source media="(prefers-color-scheme: light)" srcset="images/dangerous_light.png">
+   <img src="images/dangerous_dark.png" width=600>
    </picture>
 </p>
 
