@@ -3,17 +3,14 @@
 </br></br></br> -->
 
 
-
-<div class="">
-<div class="" align="center">
 <img src="images/take_this.png" width=600>
-</div>
 
-<div class="" align="center">
+
 <img src="images/wizard_and_flame.png" width=500>
-</div>
 
-<div class="" align="center" style="padding-top: 15px;">
-<a src="https://brandan.me/bitcoin.pdf"><img src="images/bitcoin.png" width=50></a>
-</div>
-</div>
+<a align="center" src="https://brandan.me/bitcoin.pdf"><img src="images/bitcoin.png" width=50></a>
+
+
+[![name](images/bitcoin.png)](https://brandan.me/bitcoin.pdf)
+
+[<img src="images/bitcoin.png">](https://brandan.me/bitcoin.pdf)
