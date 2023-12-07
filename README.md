@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-<a href="https://bmcdevitt.com/bitcoin.pdf"><img src="images/bitcoin.png" width="40"></a>
+<a href="https://bmcdevitt.com/bitcoin.pdf"><img src="images/bitcoin_whitepaper.png" width="70"></a>
 </p>
