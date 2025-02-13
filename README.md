@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-<a href="https://mcdevitt.ie/bitcoin.pdf"><img src="images/bitcoin_whitepaper.png" width="70"></a>
+<a href="https://mcdevtt.com/bitcoin.pdf"><img src="images/bitcoin_whitepaper.png" width="70"></a>
 </p>
